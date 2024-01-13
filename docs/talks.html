@@ -1,0 +1,35 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+order: 1
+---
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+  {% assign talks_by_year = site.data.talks | sort: "year" | reverse %}
+  {% for t in talks_by_year %}
+    <div class="talk">
+        <div class="talk-title">{{ t.title}}</div>
+        <div class="talk-detail">
+          {{ t.host }}, {{ t.year }} ({{ t.minutes }} minutes) 
+          {% if t.code %} <a href="{{t.code}}">[code]</a> {% endif %}
+          {% if t.workshop %} <a href="{{t.workshop}}">[workshop]</a> {% endif %}
+        </div>
+        <div class="tags">
+        {% for tag in t.tags %}
+          <span class="tag">{{tag}}</span>
+        {% endfor %}
+        </div>
+        <iframe width="560" height="315" src="{{t.embed_url}}" title="YouTube video player" 
+                frameborder="3" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen></iframe>
+      </div>
+
+  {% endfor %}
+  </body>
+</html>

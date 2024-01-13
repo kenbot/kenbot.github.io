@@ -1,0 +1,85 @@
+- title: To Kill a Mockingtest
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/to-kill-a-mockingtest/
+  company: REA Group
+  year: 2014
+  minutes: 11
+  opening: >
+    Please don’t use mocks or stubs in tests.  While they are seemingly ubiquitous in 
+    enterprise development, they have serious drawbacks, and typically mask easily 
+    fixable deficiencies in the underlying code.
+  tags: 
+  - testing
+  - mocks
+  - modularity
+  - boundaries
+
+- title: Getting Shit Done
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/getting-shit-done/
+  company: REA Group
+  year: 2015
+  minutes: 5
+  opening: >
+    “Getting Shit Done” is the catchphrase on everybody’s lips, and 
+    deservedly so!  When we deliver new functionality, our users regroup 
+    and flock to us, our customers grudgingly respect us, and our shareholders 
+    rejoice.  When the novel concepts invented by our product managers take 
+    shape as they watch, their eyes light up with pride and enthusiasm.  
+  tags: 
+  - culture
+  - startups
+  - tech_debt
+
+- title: The Abject Failure of Weak Typing
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/the-abject-failure-of-weak-typing/
+  company: REA Group
+  year: 2014
+  minutes: 13
+  opening: > 
+    Over the last few years of maintaining code old and new at REA, it has become 
+    abundantly clear that the neglect and misuse of type-systems has had a sharply 
+    negative impact on our codebases. Here we address the concrete causes and 
+    consequences, and propose concrete and achievable solutions.
+  tags:
+  - types
+  - type_systems
+
+- title: Not Good Enough
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/not-good-enough/
+  company: REA Group
+  year: 2016
+  minutes: 2
+  opening: > 
+    “I’m not good enough” says the graduate to herself, shuffling her feet.  
+    “All those uni assignments made no difference; everyone knows more than me.  
+    Why would anyone want to listen to what I have to say?”  Surrounded by self-assured, battle-hardened 
+    colleagues, there seems an insurmountable distance to cover—but one day, she’ll surely know enough.
+  tags:
+  - culture
+  - imposter_syndrome
+
+- title: How We Used Category Theory to Solve a Problem in Java
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/how-we-used-category-theory-to-solve-a-problem-in-java/
+  company: REA Group
+  year: 2015
+  minutes: 12
+  opening: > 
+    A few months ago, my colleague Chris Myers and I used some 
+    basic category theory concepts to guide us to a design that 
+    elegantly solved a problem in a Java codebase.
+  tags: 
+  - category_theory
+  - design_patterns
+
+- title: Use the decorator pattern for clean I/O boundaries
+  url: https://www.rea-group.com/about-us/news-and-insights/blog/use-the-decorator-pattern-for-clean-i-o-boundaries/
+  company: REA Group
+  year: 2018
+  minutes: 7
+  opening: > 
+    There’s a pattern that I keep recommending to teams over and over again, 
+    because it helps separate concerns around I/O; sending and receiving things over a network, 
+    interacting with AWS, saving and loading things from data stores. It’s an old idea; 
+    you’ll find it filed under “Decorator” in your Gang of Four book.
+  tags: 
+  - boundaries
+  - design_patterns

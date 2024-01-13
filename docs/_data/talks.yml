@@ -1,0 +1,105 @@
+- title: Adopting functional programming - a human-first approach
+  video_url: https://www.youtube.com/watch?v=JWM4J2TLGNQ
+  embed_url: https://www.youtube.com/embed/JWM4J2TLGNQ
+  year: 2017
+  minutes: 39
+  host: YOW!, RubyConf
+  tags: 
+  - FP
+  - sociotechnical
+  - learning
+
+- title: Applied category theory - the emerging science of compositionality
+  video_url: https://www.youtube.com/watch?v=M3qQFBGC9tk
+  embed_url: https://www.youtube.com/embed/M3qQFBGC9tk
+  year: 2019
+  minutes: 25
+  host: YOW! Lambda Jam
+  tags: 
+  - FP
+  - category_theory
+  - applied_maths
+
+- title: Category theory for beginners
+  video_url: https://youtu.be/jDhMDgU7Koc
+  embed_url: https://www.youtube.com/embed/jDhMDgU7Koc
+  year: 2015
+  minutes: 102
+  host: Melbourne ALT NET, YOW! Lambda Jam
+  workshop: https://github.com/kenbot/yowcat
+  tags: 
+  - FP
+  - category_theory
+  - tutorial
+
+- title: Data made out of functions
+  video_url: https://www.youtube.com/watch?v=GSPB6YgPmZw
+  embed_url: https://www.youtube.com/embed/GSPB6YgPmZw
+  year: 2016
+  minutes: 28
+  host: Linux.conf.au
+  code: https://github.com/kenbot/church
+  workshop: https://github.com/kenbot/yowchurch
+  tags: 
+  - FP
+  - church_encoding
+  - maths
+  - fun
+
+- title: Grow your own tech leads
+  video_url: https://www.youtube.com/watch?v=DOwxbjqPnwM
+  embed_url: https://www.youtube.com/embed/DOwxbjqPnwM
+  year: 2019
+  minutes: 44
+  host: YOW!
+  tags: 
+  - tech_leadership
+  - sociotechnical
+  - learning
+
+- title: Imagine a world without mocks
+  video_url: https://www.youtube.com/watch?v=EaxDl5NPuCA
+  embed_url: https://www.youtube.com/embed/EaxDl5NPuCA
+  year: 2015
+  minutes: 57
+  host: MelbJVM
+  tags: 
+  - testing
+  - mocks
+  - modularity
+  - boundaries
+
+- title: Lenses for the masses - introducing Goggles
+  video_url: https://www.youtube.com/watch?v=t2WTtIwgdLc
+  embed_url: https://www.youtube.com/embed/t2WTtIwgdLc
+  year: 2017
+  minutes: 36
+  host: Typelevel Summit, YOW! Lambda Jam
+  code: https://github.com/kenbot/goggles
+  tags: 
+  - FP
+  - lenses
+  - optics
+  - code
+
+- title: Replatform in a year or die - the tale of a turnaround
+  video_url: https://www.youtube.com/watch?v=6EplPhk9uOs
+  embed_url: https://www.youtube.com/embed/6EplPhk9uOs
+  year: 2021
+  minutes: 58
+  host: YOW! September
+  tags: 
+  - replatform
+  - sociotechnical
+  - war_story
+
+- title: Responsible dependency injection
+  video_url: https://www.youtube.com/watch?v=YMII3Lki9uo
+  embed_url: https://www.youtube.com/embed/YMII3Lki9uo
+  year: 2018
+  minutes: 80
+  host: MelbJVM
+  tags: 
+  - dependency_injection
+  - boundaries
+  - modularity

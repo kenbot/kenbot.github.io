@@ -1,0 +1,20 @@
+- title: The Hidden Data Flow in Types
+  speaker: Ambrose Bonnaire-Sergeant
+  embed_url: https://www.youtube.com/embed/Uw8ayBv1j7Y 
+  year: 2019
+  keynote: true
+  minutes: 43
+  tags:
+  - types
+  - Clojure
+
+- title: Day to Day Property Based Testing in Scala
+  speaker: Svetlana Marina
+  embed_url: https://www.youtube.com/embed/8P-nkPNYYuo
+  year: 2019
+  keynote: false
+  minutes: 24
+  tags: 
+  - Scala
+  - tests
+  

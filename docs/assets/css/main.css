@@ -1,0 +1,79 @@
+.tags {
+  margin: 5px;
+}
+
+.tag {
+  font-size: small;
+  color: #214933;
+  border-radius: 10px;
+  background: #6ae6a2;
+  padding: 4px;
+}
+
+.talk {
+  margin-bottom: 15px;
+}
+
+.talk-detail {
+  font-size: medium;
+}
+
+.foo {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.talk-title {
+  font-weight: bold;
+  font-size: large;
+}
+
+.post-title {
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.site-title {
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.trigger a.page-link {
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header.site-header {
+  background-color: hsl(217, 50%, 44%); /*#e7e9f7;*/
+  border-bottom-color: #5982c7; /*#d3d3f5;*/
+  border-top-width: 0px;
+  border-bottom-width: 5px;
+}
+
+footer.site-footer {
+  background-color: hsl(217, 50%, 44%); /*#e7e9f7;*/
+  border-top-color: #5982c7; /*#d3d3f5;*/
+  border-bottom-width: 0px;
+  border-top-width: 5px;
+}
+
+.image-crop {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 50%;
+  border-width: 10px;
+  border-color: #5982c7;
+}
+
+.image-crop img {
+  display: inline;
+  margin: 0 auto;
+  height: 115%;
+  width: auto;
+  object-fit: fill; 
+  object-position: 0px -7px;
+}
+
+.site-title-text {
+  margin-left: 80px;
+  color: white;
+}
