@@ -1,8 +1,9 @@
 - title: To Kill a Mockingtest
   url: https://www.rea-group.com/about-us/news-and-insights/blog/to-kill-a-mockingtest/
   company: REA Group
-  year: 2014
+  date-string: "2014-07-21"
   minutes: 11
+  featured: true
   opening: >
     Please don’t use mocks or stubs in tests.  While they are seemingly ubiquitous in 
     enterprise development, they have serious drawbacks, and typically mask easily 
@@ -16,8 +17,9 @@
 - title: Getting Shit Done
   url: https://www.rea-group.com/about-us/news-and-insights/blog/getting-shit-done/
   company: REA Group
-  year: 2015
+  date-string: "2015-04-08"
   minutes: 5
+  featured: false
   opening: >
     “Getting Shit Done” is the catchphrase on everybody’s lips, and 
     deservedly so!  When we deliver new functionality, our users regroup 
@@ -32,8 +34,9 @@
 - title: The Abject Failure of Weak Typing
   url: https://www.rea-group.com/about-us/news-and-insights/blog/the-abject-failure-of-weak-typing/
   company: REA Group
-  year: 2014
+  date-string: "2014-05-28"
   minutes: 13
+  featured: false
   opening: > 
     Over the last few years of maintaining code old and new at REA, it has become 
     abundantly clear that the neglect and misuse of type-systems has had a sharply 
@@ -46,8 +49,9 @@
 - title: Not Good Enough
   url: https://www.rea-group.com/about-us/news-and-insights/blog/not-good-enough/
   company: REA Group
-  year: 2016
+  date-string: "2016-12-23"
   minutes: 2
+  featured: false
   opening: > 
     “I’m not good enough” says the graduate to herself, shuffling her feet.  
     “All those uni assignments made no difference; everyone knows more than me.  
@@ -60,8 +64,9 @@
 - title: How We Used Category Theory to Solve a Problem in Java
   url: https://www.rea-group.com/about-us/news-and-insights/blog/how-we-used-category-theory-to-solve-a-problem-in-java/
   company: REA Group
-  year: 2015
+  date-string: "2015-12-01"
   minutes: 12
+  featured: false
   opening: > 
     A few months ago, my colleague Chris Myers and I used some 
     basic category theory concepts to guide us to a design that 
@@ -73,8 +78,9 @@
 - title: Use the decorator pattern for clean I/O boundaries
   url: https://www.rea-group.com/about-us/news-and-insights/blog/use-the-decorator-pattern-for-clean-i-o-boundaries/
   company: REA Group
-  year: 2018
+  date-string: "2018-05-28"
   minutes: 7
+  featured: false
   opening: > 
     There’s a pattern that I keep recommending to teams over and over again, 
     because it helps separate concerns around I/O; sending and receiving things over a network, 

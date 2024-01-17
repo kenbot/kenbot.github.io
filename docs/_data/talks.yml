@@ -3,6 +3,7 @@
   embed_url: https://www.youtube.com/embed/JWM4J2TLGNQ
   year: 2017
   minutes: 39
+  featured: false
   host: YOW!, RubyConf
   tags: 
   - FP
@@ -14,6 +15,7 @@
   embed_url: https://www.youtube.com/embed/M3qQFBGC9tk
   year: 2019
   minutes: 25
+  featured: true
   host: YOW! Lambda Jam
   tags: 
   - FP
@@ -25,6 +27,7 @@
   embed_url: https://www.youtube.com/embed/jDhMDgU7Koc
   year: 2015
   minutes: 102
+  featured: false
   host: Melbourne ALT NET, YOW! Lambda Jam
   workshop: https://github.com/kenbot/yowcat
   tags: 
@@ -37,6 +40,7 @@
   embed_url: https://www.youtube.com/embed/GSPB6YgPmZw
   year: 2016
   minutes: 28
+  featured: false
   host: Linux.conf.au
   code: https://github.com/kenbot/church
   workshop: https://github.com/kenbot/yowchurch
@@ -51,6 +55,7 @@
   embed_url: https://www.youtube.com/embed/DOwxbjqPnwM
   year: 2019
   minutes: 44
+  featured: true
   host: YOW!
   tags: 
   - tech_leadership
@@ -62,6 +67,7 @@
   embed_url: https://www.youtube.com/embed/EaxDl5NPuCA
   year: 2015
   minutes: 57
+  featured: false
   host: MelbJVM
   tags: 
   - testing
@@ -74,6 +80,7 @@
   embed_url: https://www.youtube.com/embed/t2WTtIwgdLc
   year: 2017
   minutes: 36
+  featured: false
   host: Typelevel Summit, YOW! Lambda Jam
   code: https://github.com/kenbot/goggles
   tags: 
@@ -87,6 +94,7 @@
   embed_url: https://www.youtube.com/embed/6EplPhk9uOs
   year: 2021
   minutes: 58
+  featured: true
   host: YOW! September
   tags: 
   - replatform
@@ -98,6 +106,7 @@
   embed_url: https://www.youtube.com/embed/YMII3Lki9uo
   year: 2018
   minutes: 80
+  featured: false
   host: MelbJVM
   tags: 
   - dependency_injection

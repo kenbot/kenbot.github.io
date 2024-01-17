@@ -1,8 +1,8 @@
 ---
 layout: page
-title: External posts
-permalink: /external-posts/
-order: 2
+title: Posts
+permalink: /posts/
+order: 1
 ---
 <html>
   <head>
@@ -24,21 +24,32 @@ order: 2
     </style>
   </head>
   <body>
-  {% assign posts_by_year = site.data.externalPosts | sort: "year" | reverse %}
+  {% assign posts_by_year = site.posts | concat: site.data.externalPosts | sort: "date-string" | reverse %}
   {% for p in posts_by_year %}
     <div class="article">
-        <div class="article-title"><a href="{{ p.url }}">{{ p.title }}</a></div>
+        <div class="article-title">
+          {% if p.company %}
+            <a href="{{ p.url }}" target="_blank">{{ p.title }} ({{ p.company }})</a>
+          {% else %}
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+        </div>
         <div class="article-detail">
-          {{ p.company }}, {{ p.year }} ({{ p.minutes }} minutes) 
+          {{ p.date-string | date: "%d %b %Y" }} 
+          {% if p.minutes %}
+          ({{ p.minutes }} minutes) 
+          {% endif %}
         </div>
         <div class="tags">
         {% for tag in p.tags %}
           <span class="tag">{{tag}}</span>
         {% endfor %}
         </div>
+        {% if p.opening %}
         <div class="opening"> 
           {{ p.opening }}...
         </div>
+        {% endif %}
       </div>
 
   {% endfor %}

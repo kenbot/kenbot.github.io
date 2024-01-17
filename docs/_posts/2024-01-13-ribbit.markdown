@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Ribbit: a frog's lament"
+date: 2024-01-13 00:00:00 +1000
+date-string: "2024-01-13"
+featured: false
+tags: ribbit frog
+opening: > 
+  Tadpoles! Would that we could all wiggle our way through the water without the tedious imposition of growing legs, and inevitably, as day follows night, losing our tail.
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis ipsum sem, quis fringilla ligula rhoncus at. Fusce euismod, nibh nec posuere vehicula, velit urna faucibus diam, at scelerisque sem est et leo. Mauris a lacus sapien. Aenean euismod lobortis risus id porta. Nam est erat, efficitur a sem sit amet, porttitor placerat sem. Cras id orci a velit lobortis efficitur. Nulla vestibulum ligula sed pulvinar porta. Aenean quis mollis neque. Cras nunc leo, tincidunt facilisis metus at, ullamcorper euismod dolor. Duis vel gravida purus. Suspendisse a nisl nisl. Proin lobortis vestibulum nunc vitae sollicitudin.
+
+Mauris ac est nulla. Suspendisse ullamcorper ipsum quis enim molestie, a ultricies tellus auctor. Vestibulum quis risus justo. Morbi consectetur quam orci. Etiam sit amet commodo ante. Vestibulum facilisis ornare eros vel eleifend. Ut imperdiet elit risus, id rutrum mauris viverra sed. Aliquam erat volutpat. Fusce porta, purus eget rutrum molestie, risus metus sagittis arcu, aliquet suscipit tortor eros ac mauris. Aenean ornare tellus vel erat volutpat rutrum. Morbi ac turpis sodales, gravida sapien nec, tincidunt lorem. Aenean pharetra, magna nec feugiat ullamcorper, enim leo vulputate turpis, ornare ultrices ex tortor vel nibh.
+
+Fusce ornare lacus ac enim vestibulum, ac blandit nisl semper. Maecenas varius scelerisque dolor, ut rutrum erat hendrerit vitae. Pellentesque porttitor ultrices orci, in hendrerit nulla iaculis eu. Vestibulum in mi non libero dignissim condimentum. Curabitur cursus tincidunt ante, sed ultricies erat ornare a. Integer est lorem, consequat sit amet tortor in, pulvinar aliquam justo. Nulla varius mauris vitae sagittis ultricies. Donec accumsan feugiat quam pharetra scelerisque. Maecenas posuere felis ac euismod malesuada. Nam blandit nunc vel lectus eleifend hendrerit.
+
+Aliquam molestie condimentum nulla id blandit. Vestibulum maximus viverra euismod. In in tincidunt sem, sit amet auctor risus. Nam risus ante, luctus id sem sed, gravida venenatis augue. In consectetur bibendum tellus non varius. Aenean tempor ipsum sed eros maximus, nec aliquet leo aliquam. Suspendisse viverra elit dolor, nec vestibulum eros malesuada nec. Phasellus vel molestie magna. Nulla sodales, lectus vitae feugiat semper, eros lacus congue sapien, nec blandit justo purus ac lorem. Morbi bibendum neque urna, et blandit ante commodo eget. Aenean a iaculis dui.
+
+Curabitur interdum ligula at pulvinar laoreet. Mauris aliquet, dolor pharetra lobortis hendrerit, velit dui sollicitudin tellus, id mollis odio dui vel magna. In pulvinar iaculis felis, nec gravida nunc feugiat a. In nec vehicula ex. Morbi pellentesque porttitor leo, ac gravida turpis ornare ut. Etiam nec faucibus leo, vitae pellentesque erat. Sed sit amet auctor nunc. Nulla et enim placerat, suscipit velit eu, vestibulum tortor. In malesuada eu massa ut pellentesque. Pellentesque malesuada consectetur quam, at suscipit lacus laoreet nec. 
