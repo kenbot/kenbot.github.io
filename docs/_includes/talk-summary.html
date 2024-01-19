@@ -1,0 +1,21 @@
+<div class="talk">
+  {% assign t = include.talk %}
+  <div class="talk-title"><a href="{{t.video_url}}" target="blank_">{{ t.title}}</a></div>
+  <div class="talk-detail">
+    {{ t.host }}, {{ t.year }} ({{ t.minutes }} minutes) 
+    {% if t.code %} <a href="{{t.code}}">[code]</a> {% endif %}
+    {% if t.workshop %} <a href="{{t.workshop}}">[workshop]</a> {% endif %}
+  </div>
+  <div class="tags">
+  {% for tag in t.tags %}
+    <span class="tag">{{tag}}</span>
+  {% endfor %}
+  </div>
+  <iframe width="400" height="225" src="{{t.embed_url}}" title="YouTube video player" 
+          frameborder="3" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen></iframe>
+</div>
+<div class="filler">
+
+</div>

@@ -1,0 +1,32 @@
+{% assign p = {{include.post}} %}
+
+<div class="article">
+  {%- assign date_format = site.minima.date_format | default: "%d %-b, %Y" -%}
+  <span class="post-meta">{{ p.date | date: date_format }}</span>
+  <div class="article-title">
+
+    {% if p.company %}
+      <a href="{{ p.url }}" target="_blank">{{ p.title }} ({{ p.company }})</a>
+    {% else %}
+      <a href="{{ p.url }}">{{ p.title }}</a>
+    {% endif %}
+  </div>
+  <div class="article-detail">
+    {% if p.minutes %}
+    ({{ p.minutes }} minutes) 
+    {% endif %}
+  </div>
+  <div class="tags">
+  {% for tag in p.tags %}
+    <span class="tag">{{tag}}</span>
+  {% endfor %}
+  </div>
+  {% if p.opening %}
+  <div class="opening"> 
+    {{ p.opening }}...
+  </div>
+  {% endif %}
+</div>
+<div class="filler">
+
+</div>

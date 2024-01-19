@@ -3,7 +3,7 @@ layout: post
 title: "Why wibble when you can wobble"
 date: 2024-01-12 00:00:00 +1000
 date-string: "2024-01-12"
-featured: true
+featured: false
 tags: wibble wobble
 opening: > 
   Despite the seeming ubiquity of wibbling, for many use cases wobbling provides better balance, comfort and dignity.

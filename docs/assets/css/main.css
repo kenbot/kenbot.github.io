@@ -102,11 +102,11 @@ span.image-crop {
 }
 
 h1.post-title {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 h2.post-title {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 .contact-links a {
@@ -119,4 +119,17 @@ h2.post-title {
 .contact-links a:hover {
   background-color: #5982c7;
 
+}
+
+.article {
+  margin-bottom: 30px;
+}
+
+.article-detail {
+  font-size: medium;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: large;
 }

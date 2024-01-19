@@ -5,46 +5,30 @@ layout: default
 <div class="home">
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {% assign latest_posts = site.posts | slice: 1 %}
+  {%- if latest_posts.size > 0 -%}
     <h2 class="post-title">Latest</h2>
     <ul class="post-list">
-      {% assign latest_posts = site.posts | slice: 1 %}
+      
       {%- for post in latest_posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+        {% include post-summary.html post=post %}
       {%- endfor -%}
     </ul>
+  {%- endif -%}
 
-    <h2 class="post-title">Featured</h2>
-    <ul class="post-list">
-      {% assign featured = site.posts | where: "featured", true %}
-      {%- for post in featured -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+  <h2 class="post-title">Featured</h2>
+  <ul class="post-list">
+    {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | where: "featured", true %}
+    {%- for feature in featured -%}
+      {% if feature.video_url %}
+        {% include talk-summary.html talk=feature%}
+      {% else %}
+        {% include post-summary.html post=feature%}
+      {% endif %}
+    {%- endfor -%}
+  </ul>
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
-  {%- endif -%}
+  
 
 </div>

@@ -9,49 +9,13 @@ order: 1
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <style>
-      .article {
-        margin-bottom: 30px;
-      }
 
-      .article-detail {
-        font-size: medium;
-      }
-
-      .article-title {
-        font-weight: bold;
-        font-size: large;
-      }
     </style>
   </head>
   <body>
   {% assign posts_by_year = site.posts | concat: site.data.externalPosts | sort: "date-string" | reverse %}
   {% for p in posts_by_year %}
-    <div class="article">
-        <div class="article-title">
-          {% if p.company %}
-            <a href="{{ p.url }}" target="_blank">{{ p.title }} ({{ p.company }})</a>
-          {% else %}
-            <a href="{{ p.url }}">{{ p.title }}</a>
-          {% endif %}
-        </div>
-        <div class="article-detail">
-          {{ p.date-string | date: "%d %b %Y" }} 
-          {% if p.minutes %}
-          ({{ p.minutes }} minutes) 
-          {% endif %}
-        </div>
-        <div class="tags">
-        {% for tag in p.tags %}
-          <span class="tag">{{tag}}</span>
-        {% endfor %}
-        </div>
-        {% if p.opening %}
-        <div class="opening"> 
-          {{ p.opening }}...
-        </div>
-        {% endif %}
-      </div>
-
+      {% include post-summary.html post=p %}
   {% endfor %}
   </body>
 </html>
