@@ -1,0 +1,48 @@
+- title: FP community - the elephant in the room
+  embed: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵There&#39;s been a bit of an elephant in the room for Aussie FP community organisers the last couple of years. I thought it would be fun to share and compare notes. <br><br>The root of the &quot;problem&quot; is that functional programming won! /1</p>&mdash; @kenbot@hachyderm.io (@KenScambler) <a href="https://twitter.com/KenScambler/status/1311310214482636802?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  site: Twitter
+  date: 2020-10-01 00:00:00 +1000 
+  date-string: "2020-10-01"
+  featured: false
+  tags:
+  - fp_community
+
+- title: String diagrams for software design
+  embed: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My best kept secret* is that string &amp; wiring diagrams--plucked straight out of applied category theory--are *fabulous* for software and system design. And you don&#39;t have to learn a damn thing to start using them. 🙌<br><br>*will talk to anyone who&#39;ll listen</p>&mdash; @kenbot@hachyderm.io (@KenScambler) <a href="https://twitter.com/KenScambler/status/1108738366529400832?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  site: Twitter
+  date: 2019-03-22 00:00:00 +1000 
+  date-string: "2019-03-22"
+  featured: false
+  tags: 
+  - software_design
+  - string_diagrams
+
+- title: String diagrams - related links
+  embed: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re lucky enough to write a thread that blows up and is read by lots of smart people, turns out you get sent some really amazing stuff! 😊<br><br>This is another thread to list 31 (!!!) of the interesting related things people mentioned in the replies:<a href="https://t.co/1uiBpbqcej">https://t.co/1uiBpbqcej</a></p>&mdash; @kenbot@hachyderm.io (@KenScambler) <a href="https://twitter.com/KenScambler/status/1109474342822244353?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  site: Twitter
+  date: 2019-03-24 00:00:00 +1000 
+  date-string: "2019-03-24"
+  featured: false
+  tags: 
+  - software_design
+  - string_diagrams
+
+- title: Don't do the "monoid in the category of endofunctors" joke
+  embed: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A small part of me dies when you use that &quot;A monad is just a monoid in the category of endofunctors, what&#39;s the problem?&quot; joke in your slides. Please don&#39;t use it. A few reasons (thread):</p>&mdash; @kenbot@hachyderm.io (@KenScambler) <a href="https://twitter.com/KenScambler/status/955290743404310528?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  site: Twitter
+  date: 2018-01-22 00:00:00 +1000 
+  date-string: "2018-01-22"
+  featured: false
+  tags: 
+  - monads
+  - category_theory
+
+- title: Explanation of the "monoid in the category of endofunctors" thing
+  embed: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ok, so I&#39;ve been rightly challenged on my boast that I can explain the &quot;monad is a monoid&quot; thing to you with pen and paper. Here goes:</p>&mdash; @kenbot@hachyderm.io (@KenScambler) <a href="https://twitter.com/KenScambler/status/955441793465696257?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  site: Twitter
+  date: 2018-01-23 00:00:00 +1000 
+  date-string: "2018-01-23"
+  featured: false
+  tags: 
+  - monads
+  - category_theory

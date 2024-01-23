@@ -5,15 +5,10 @@
   <span class="post-meta">{{ p.date | date: date_format }}</span>
   <div class="article-title">
 
-    {% if p.company %}
-      <a href="{{ p.url }}" target="_blank">{{ p.title }} ({{ p.company }})</a>
+    {% if p.site %}
+      <a href="{{ p.url }}" target="_blank">{{ p.title }} ({{ p.site }})</a>
     {% else %}
       <a href="{{ p.url }}">{{ p.title }}</a>
-    {% endif %}
-  </div>
-  <div class="article-detail">
-    {% if p.minutes %}
-    ({{ p.minutes }} minutes) 
     {% endif %}
   </div>
   <div class="tags">
@@ -24,6 +19,11 @@
   {% if p.opening %}
   <div class="opening"> 
     {{ p.opening }}...
+  </div>
+  {% endif %}
+  {% if p.embed %}
+  <div class="social-embed">
+    {{ p.embed }}
   </div>
   {% endif %}
 </div>

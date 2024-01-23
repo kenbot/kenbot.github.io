@@ -13,7 +13,7 @@ order: 1
     </style>
   </head>
   <body>
-  {% assign posts_by_year = site.posts | concat: site.data.externalPosts | sort: "date-string" | reverse %}
+  {% assign posts_by_year = site.posts | concat: site.data.externalPosts | concat: site.data.socials | sort: "date-string" | reverse %}
   {% for p in posts_by_year %}
       {% include post-summary.html post=p %}
   {% endfor %}

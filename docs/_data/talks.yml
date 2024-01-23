@@ -6,9 +6,10 @@
   featured: false
   host: YOW!, RubyConf
   tags: 
-  - FP
+  - fp
   - sociotechnical
   - learning
+  - language_adoption
 
 - title: Applied category theory - the emerging science of compositionality
   video_url: https://www.youtube.com/watch?v=M3qQFBGC9tk
@@ -18,7 +19,7 @@
   featured: true
   host: YOW! Lambda Jam
   tags: 
-  - FP
+  - fp
   - category_theory
   - applied_maths
 
@@ -31,7 +32,7 @@
   host: Melbourne ALT NET, YOW! Lambda Jam
   workshop: https://github.com/kenbot/yowcat
   tags: 
-  - FP
+  - fp
   - category_theory
   - tutorial
 
@@ -45,7 +46,7 @@
   code: https://github.com/kenbot/church
   workshop: https://github.com/kenbot/yowchurch
   tags: 
-  - FP
+  - fp
   - church_encoding
   - maths
   - fun
@@ -84,7 +85,7 @@
   host: Typelevel Summit, YOW! Lambda Jam
   code: https://github.com/kenbot/goggles
   tags: 
-  - FP
+  - fp
   - lenses
   - optics
   - code

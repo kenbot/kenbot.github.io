@@ -1,0 +1,19 @@
+---
+layout: page
+title: Compose 2018
+permalink: /compose/2018
+parent: compose.html
+---
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    
+    {% assign talks = site.data.composeTalks | where: "year", 2018 %}
+    {% for t in talks %}
+      {% include compose-talk-summary.html talk=t %}
+    {% endfor %}
+  </body>
+</html>

@@ -1,10 +1,12 @@
 <div class="talk">
   {% assign t = include.talk %}
-  <div class="talk-title"><a href="{{t.video_url}}" target="blank_">{{ t.title}}</a></div>
+  <div class="talk-title">
+    <a href="{{t.video_url}}" target="blank_">
+      {% if t.keynote %} Keynote: {% endif %} {{ t.title}}
+    </a>
+  </div>
   <div class="talk-detail">
-    {{ t.host }}, {{ t.year }} ({{ t.minutes }} minutes) 
-    {% if t.code %} <a href="{{t.code}}">[code]</a> {% endif %}
-    {% if t.workshop %} <a href="{{t.workshop}}">[workshop]</a> {% endif %}
+    {{ t.speaker }}, {{ t.year }} ({{ t.minutes }} minutes) 
   </div>
   <div class="tags">
   {% for tag in t.tags %}

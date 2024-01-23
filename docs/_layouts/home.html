@@ -18,7 +18,7 @@ layout: default
 
   <h2 class="post-title">Featured</h2>
   <ul class="post-list">
-    {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | where: "featured", true %}
+    {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true %}
     {%- for feature in featured -%}
       {% if feature.video_url %}
         {% include talk-summary.html talk=feature%}

@@ -1,20 +1,206 @@
 - title: The Hidden Data Flow in Types
   speaker: Ambrose Bonnaire-Sergeant
+  video_url: https://www.youtube.com/watch?v=Uw8ayBv1j7Y 
   embed_url: https://www.youtube.com/embed/Uw8ayBv1j7Y 
   year: 2019
-  keynote: true
   minutes: 43
+  keynote: true
   tags:
   - types
-  - Clojure
+  - clojure
+
+- title: Lost in a Universe of Types
+  speaker: Brendan Zabarauskas
+  video_url: https://www.youtube.com/watch?v=L9TubiWkBZ8
+  embed_url: https://www.youtube.com/embed/L9TubiWkBZ8
+  year: 2019
+  keynote: false
+  minutes: 29
+  tags: 
+  - types
+  - language_design
+
+- title: An Intuition for Propagators
+  speaker: George Wilson
+  video_url: https://www.youtube.com/watch?v=nY1BCv3xn24
+  embed_url: https://www.youtube.com/embed/nY1BCv3xn24
+  year: 2019
+  keynote: false
+  minutes: 31
+  tags: 
+  - propagators
+
+- title: Reflex Outside the Browser
+  speaker: Jack Kelly
+  video_url: https://www.youtube.com/watch?v=iik7yfB8BGo
+  embed_url: https://www.youtube.com/embed/iik7yfB8BGo
+  year: 2019
+  keynote: false
+  minutes: 27
+  tags: 
+  - reflex
+  - frp
+  - haskell
 
 - title: Day to Day Property Based Testing in Scala
   speaker: Svetlana Marina
+  video_url: https://www.youtube.com/watch?v=8P-nkPNYYuo
   embed_url: https://www.youtube.com/embed/8P-nkPNYYuo
   year: 2019
   keynote: false
   minutes: 24
   tags: 
-  - Scala
+  - scala
   - tests
-  
+
+- title: The Unreasonable Effectiveness of Metaphor
+  speaker: Julie Moronuki
+  video_url: https://www.youtube.com/watch?v=xMl3Y9r3HFA
+  embed_url: https://www.youtube.com/embed/xMl3Y9r3HFA
+  year: 2018
+  keynote: true
+  minutes: 50
+  tags: 
+  - linguistics
+  - reasoning 
+  - philosophy
+
+- title: Reflexive Art
+  speaker: Sean Chalmers
+  video_url: https://www.youtube.com/watch?v=EkgxbVKpFww
+  embed_url: https://www.youtube.com/embed/EkgxbVKpFww
+  year: 2018
+  keynote: false
+  minutes: 26
+  tags: 
+  - reflex
+  - frp
+  - haskell
+  - art
+
+- title: Drinking the Elixir
+  speaker: Jo Cranford
+  video_url: https://www.youtube.com/watch?v=YMvuJImNOe4
+  embed_url: https://www.youtube.com/embed/YMvuJImNOe4
+  year: 2018
+  keynote: false
+  minutes: 28
+  tags: 
+  - elixir
+  - war_story
+  - language_adoption
+
+- title: "AST to WebAssembly: Writing a Code generator"
+  speaker: Dr Paul Bone
+  video_url: https://www.youtube.com/watch?v=TsCvQEXwX_o
+  embed_url: https://www.youtube.com/embed/TsCvQEXwX_o
+  year: 2018
+  keynote: false
+  minutes: 29
+  tags: 
+  - compilers
+  - webassembly
+  - wasm
+
+- title: Prototype Driven Development in Haskell
+  speaker: Rohit Grover
+  video_url: https://www.youtube.com/watch?v=2AwLd-CTgrU
+  embed_url: https://www.youtube.com/embed/2AwLd-CTgrU
+  year: 2018
+  keynote: false
+  minutes: 29
+  tags: 
+  - haskell
+  - c++
+  - kalman_filters
+
+- title: Dependently Typed State Machines
+  speaker: Tim McGilchrist
+  video_url: https://www.youtube.com/watch?v=AgRmpMPCKeU
+  embed_url: https://www.youtube.com/embed/AgRmpMPCKeU
+  year: 2018
+  keynote: false
+  minutes: 26
+  tags: 
+  - dependent_types
+  - state_machines
+  - idris
+  - haskell
+
+- title: Laws!
+  speaker: George Wilson
+  video_url: https://www.youtube.com/watch?v=VzNGF4V937o
+  embed_url: https://www.youtube.com/embed/VzNGF4V937o
+  year: 2018
+  keynote: false
+  minutes: 28
+  tags: 
+  - laws
+  - abstractions
+
+- title: "Elm at Scale: Surprises and Pain Points"
+  speaker: Kevin Yank
+  video_url: https://www.youtube.com/watch?v=99z97i4015A
+  embed_url: https://www.youtube.com/embed/99z97i4015A
+  year: 2018
+  keynote: false
+  minutes: 25
+  tags:
+  - elm
+  - war_story
+  - language_adoption
+
+- title: Appetite for Dysfunction
+  speaker: Andrew McCluskey
+  video_url: https://www.youtube.com/watch?v=k8k2rwWImy8
+  embed_url: https://www.youtube.com/embed/k8k2rwWImy8
+  year: 2018
+  keynote: false
+  minutes: 28
+  tags:
+  - property_based_testing
+  - haskell
+
+- title: Quantifiers in Programming
+  speaker: David Barri
+  video_url: https://www.youtube.com/watch?v=9RvWDDZK3D8
+  embed_url: https://www.youtube.com/embed/9RvWDDZK3D8
+  year: 2018
+  keynote: false
+  minutes: 30
+  tags:
+  - quantifiers
+  - scala.js
+  - react
+
+- title: Life is a Comonad
+  speaker: Elias Jordan
+  video_url: https://www.youtube.com/watch?v=6eiS2QTQKPE
+  embed_url: https://www.youtube.com/embed/6eiS2QTQKPE
+  year: 2018
+  keynote: false
+  minutes: 26
+  tags:
+  - comonads
+
+- title: A Music Composition Language With a Functional Backbone
+  speaker: Dave Yarwood
+  video_url: https://www.youtube.com/watch?v=7nbBSwopG-E
+  embed_url: https://www.youtube.com/embed/7nbBSwopG-E
+  year: 2018
+  keynote: false
+  minutes: 30
+  tags:
+  - music
+  - alda
+
+- title: Playing with Graphics and Animations in Haskell
+  speaker: Manuel Chakravarty
+  video_url: https://www.youtube.com/watch?v=9dk7_GDNocQ
+  embed_url: https://www.youtube.com/embed/9dk7_GDNocQ
+  year: 2016
+  keynote: true
+  minutes: 44
+  tags:
+  - haskell
+  - graphics

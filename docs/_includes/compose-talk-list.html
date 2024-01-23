@@ -1,0 +1,7 @@
+
+
+{% assign talks = site.data.composeTalks | where: "year", {{ year }} %}
+{% for t in talks %}
+  {% include compose-talk-summary.html talk=t %}
+{% endfor %}
+
