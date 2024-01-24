@@ -1,7 +1,7 @@
 - title: The Hidden Data Flow in Types
   speaker: Ambrose Bonnaire-Sergeant
   video_url: https://www.youtube.com/watch?v=Uw8ayBv1j7Y 
-  embed_url: https://www.youtube.com/embed/Uw8ayBv1j7Y 
+  embed_url: https://www.youtube-nocookie.com/embed/Uw8ayBv1j7Y 
   year: 2019
   minutes: 43
   keynote: true
@@ -12,7 +12,7 @@
 - title: Lost in a Universe of Types
   speaker: Brendan Zabarauskas
   video_url: https://www.youtube.com/watch?v=L9TubiWkBZ8
-  embed_url: https://www.youtube.com/embed/L9TubiWkBZ8
+  embed_url: https://www.youtube-nocookie.com/embed/L9TubiWkBZ8
   year: 2019
   keynote: false
   minutes: 29
@@ -23,7 +23,7 @@
 - title: An Intuition for Propagators
   speaker: George Wilson
   video_url: https://www.youtube.com/watch?v=nY1BCv3xn24
-  embed_url: https://www.youtube.com/embed/nY1BCv3xn24
+  embed_url: https://www.youtube-nocookie.com/embed/nY1BCv3xn24
   year: 2019
   keynote: false
   minutes: 31
@@ -33,7 +33,7 @@
 - title: Reflex Outside the Browser
   speaker: Jack Kelly
   video_url: https://www.youtube.com/watch?v=iik7yfB8BGo
-  embed_url: https://www.youtube.com/embed/iik7yfB8BGo
+  embed_url: https://www.youtube-nocookie.com/embed/iik7yfB8BGo
   year: 2019
   keynote: false
   minutes: 27
@@ -45,7 +45,7 @@
 - title: Day to Day Property Based Testing in Scala
   speaker: Svetlana Marina
   video_url: https://www.youtube.com/watch?v=8P-nkPNYYuo
-  embed_url: https://www.youtube.com/embed/8P-nkPNYYuo
+  embed_url: https://www.youtube-nocookie.com/embed/8P-nkPNYYuo
   year: 2019
   keynote: false
   minutes: 24
@@ -56,7 +56,7 @@
 - title: The Unreasonable Effectiveness of Metaphor
   speaker: Julie Moronuki
   video_url: https://www.youtube.com/watch?v=xMl3Y9r3HFA
-  embed_url: https://www.youtube.com/embed/xMl3Y9r3HFA
+  embed_url: https://www.youtube-nocookie.com/embed/xMl3Y9r3HFA
   year: 2018
   keynote: true
   minutes: 50
@@ -68,7 +68,7 @@
 - title: Reflexive Art
   speaker: Sean Chalmers
   video_url: https://www.youtube.com/watch?v=EkgxbVKpFww
-  embed_url: https://www.youtube.com/embed/EkgxbVKpFww
+  embed_url: https://www.youtube-nocookie.com/embed/EkgxbVKpFww
   year: 2018
   keynote: false
   minutes: 26
@@ -81,7 +81,7 @@
 - title: Drinking the Elixir
   speaker: Jo Cranford
   video_url: https://www.youtube.com/watch?v=YMvuJImNOe4
-  embed_url: https://www.youtube.com/embed/YMvuJImNOe4
+  embed_url: https://www.youtube-nocookie.com/embed/YMvuJImNOe4
   year: 2018
   keynote: false
   minutes: 28
@@ -93,7 +93,7 @@
 - title: "AST to WebAssembly: Writing a Code generator"
   speaker: Dr Paul Bone
   video_url: https://www.youtube.com/watch?v=TsCvQEXwX_o
-  embed_url: https://www.youtube.com/embed/TsCvQEXwX_o
+  embed_url: https://www.youtube-nocookie.com/embed/TsCvQEXwX_o
   year: 2018
   keynote: false
   minutes: 29
@@ -105,7 +105,7 @@
 - title: Prototype Driven Development in Haskell
   speaker: Rohit Grover
   video_url: https://www.youtube.com/watch?v=2AwLd-CTgrU
-  embed_url: https://www.youtube.com/embed/2AwLd-CTgrU
+  embed_url: https://www.youtube-nocookie.com/embed/2AwLd-CTgrU
   year: 2018
   keynote: false
   minutes: 29
@@ -117,7 +117,7 @@
 - title: Dependently Typed State Machines
   speaker: Tim McGilchrist
   video_url: https://www.youtube.com/watch?v=AgRmpMPCKeU
-  embed_url: https://www.youtube.com/embed/AgRmpMPCKeU
+  embed_url: https://www.youtube-nocookie.com/embed/AgRmpMPCKeU
   year: 2018
   keynote: false
   minutes: 26
@@ -130,7 +130,7 @@
 - title: Laws!
   speaker: George Wilson
   video_url: https://www.youtube.com/watch?v=VzNGF4V937o
-  embed_url: https://www.youtube.com/embed/VzNGF4V937o
+  embed_url: https://www.youtube-nocookie.com/embed/VzNGF4V937o
   year: 2018
   keynote: false
   minutes: 28
@@ -141,7 +141,7 @@
 - title: "Elm at Scale: Surprises and Pain Points"
   speaker: Kevin Yank
   video_url: https://www.youtube.com/watch?v=99z97i4015A
-  embed_url: https://www.youtube.com/embed/99z97i4015A
+  embed_url: https://www.youtube-nocookie.com/embed/99z97i4015A
   year: 2018
   keynote: false
   minutes: 25
@@ -153,7 +153,7 @@
 - title: Appetite for Dysfunction
   speaker: Andrew McCluskey
   video_url: https://www.youtube.com/watch?v=k8k2rwWImy8
-  embed_url: https://www.youtube.com/embed/k8k2rwWImy8
+  embed_url: https://www.youtube-nocookie.com/embed/k8k2rwWImy8
   year: 2018
   keynote: false
   minutes: 28
@@ -164,7 +164,7 @@
 - title: Quantifiers in Programming
   speaker: David Barri
   video_url: https://www.youtube.com/watch?v=9RvWDDZK3D8
-  embed_url: https://www.youtube.com/embed/9RvWDDZK3D8
+  embed_url: https://www.youtube-nocookie.com/embed/9RvWDDZK3D8
   year: 2018
   keynote: false
   minutes: 30
@@ -176,7 +176,7 @@
 - title: Life is a Comonad
   speaker: Elias Jordan
   video_url: https://www.youtube.com/watch?v=6eiS2QTQKPE
-  embed_url: https://www.youtube.com/embed/6eiS2QTQKPE
+  embed_url: https://www.youtube-nocookie.com/embed/6eiS2QTQKPE
   year: 2018
   keynote: false
   minutes: 26
@@ -186,7 +186,7 @@
 - title: A Music Composition Language With a Functional Backbone
   speaker: Dave Yarwood
   video_url: https://www.youtube.com/watch?v=7nbBSwopG-E
-  embed_url: https://www.youtube.com/embed/7nbBSwopG-E
+  embed_url: https://www.youtube-nocookie.com/embed/7nbBSwopG-E
   year: 2018
   keynote: false
   minutes: 30
@@ -197,7 +197,7 @@
 - title: Sound Synthesis in the Computational Crucible
   speaker: Andrew Sorensen
   video_url: https://www.youtube.com/watch?v=Mlbe7d90DoI
-  embed_url: https://www.youtube.com/embed/Mlbe7d90DoI
+  embed_url: https://www.youtube-nocookie.com/embed/Mlbe7d90DoI
   year: 2017
   keynote: true
   minutes: 44
@@ -208,7 +208,7 @@
 - title: Your First Haskell App
   speaker: Andrew McCluskey
   video_url: https://www.youtube.com/watch?v=lUibiSzIgG4
-  embed_url: https://www.youtube.com/embed/lUibiSzIgG4
+  embed_url: https://www.youtube-nocookie.com/embed/lUibiSzIgG4
   year: 2017
   keynote: false
   minutes: 27
@@ -219,7 +219,7 @@
 - title: From Javascript to Purescript
   speaker: Rahul Trikha 
   video_url: https://www.youtube.com/watch?v=MBj2q9O3b-8
-  embed_url: https://www.youtube.com/embed/MBj2q9O3b-8
+  embed_url: https://www.youtube-nocookie.com/embed/MBj2q9O3b-8
   year: 2017
   keynote: false
   minutes: 30
@@ -230,7 +230,7 @@
 - title: "React: JS vs Clojurescript"
   speaker: Pei Shi Yong
   video_url: https://www.youtube.com/watch?v=7Kl63sCXdRQ
-  embed_url: https://www.youtube.com/embed/7Kl63sCXdRQ
+  embed_url: https://www.youtube-nocookie.com/embed/7Kl63sCXdRQ
   year: 2017
   keynote: false
   minutes: 27
@@ -242,7 +242,7 @@
 - title: "Type Class: The Ultimate Ad Hoc"
   speaker: George Wilson
   video_url: https://www.youtube.com/watch?v=2EdQFCP5mZ8
-  embed_url: https://www.youtube.com/embed/2EdQFCP5mZ8
+  embed_url: https://www.youtube-nocookie.com/embed/2EdQFCP5mZ8
   year: 2017
   keynote: false
   minutes: 31
@@ -252,7 +252,7 @@
 - title: A Haskell EDSL for Bioinformatics Pipelines
   speaker: Justin Bedő
   video_url: https://www.youtube.com/watch?v=lu90p7EWXJE
-  embed_url: https://www.youtube.com/embed/lu90p7EWXJE
+  embed_url: https://www.youtube-nocookie.com/embed/lu90p7EWXJE
   year: 2017
   keynote: false
   minutes: 29
@@ -263,7 +263,7 @@
 - title: FP in Aviation
   speaker: Tony Morris
   video_url: https://www.youtube.com/watch?v=ZOII5dbduKU
-  embed_url: https://www.youtube.com/embed/ZOII5dbduKU
+  embed_url: https://www.youtube-nocookie.com/embed/ZOII5dbduKU
   year: 2017
   keynote: false
   minutes: 31
@@ -274,7 +274,7 @@
 - title: Re-ops, a Functional Live Infrastructure as Code
   speaker: Ronen Narkis
   video_url: https://www.youtube.com/watch?v=iopuirQuK-s
-  embed_url: https://www.youtube.com/embed/iopuirQuK-s
+  embed_url: https://www.youtube-nocookie.com/embed/iopuirQuK-s
   year: 2017
   keynote: false
   minutes: 28
@@ -286,7 +286,7 @@
 - title: The Why and How of ReasonML
   speaker: Keira Hodgkison
   video_url: https://www.youtube.com/watch?v=j5mlMUzpE5g
-  embed_url: https://www.youtube.com/embed/j5mlMUzpE5g
+  embed_url: https://www.youtube-nocookie.com/embed/j5mlMUzpE5g
   year: 2017
   keynote: false
   minutes: 27
@@ -297,7 +297,7 @@
 - title: Reactive Streams for REA Feeders
   speaker: Luke Stephenson
   video_url: https://www.youtube.com/watch?v=mOanvXdMRQY
-  embed_url: https://www.youtube.com/embed/mOanvXdMRQY
+  embed_url: https://www.youtube-nocookie.com/embed/mOanvXdMRQY
   year: 2017
   keynote: false
   minutes: 25
@@ -309,7 +309,7 @@
 - title: Domain-Specific Type Error Diagnosis in GHC
   speaker: Jurriaan Hage
   video_url: https://www.youtube.com/watch?v=GbCfmnTmQDc
-  embed_url: https://www.youtube.com/embed/GbCfmnTmQDc
+  embed_url: https://www.youtube-nocookie.com/embed/GbCfmnTmQDc
   year: 2017
   keynote: false
   minutes: 29
@@ -320,7 +320,7 @@
   - title: Grenade - Dependently Typed Neural Networks in Haskell
     speaker: Huw Campbell
     video_url: https://www.youtube.com/watch?v=sPjA6lS0GlQ
-    embed_url: https://www.youtube.com/embed/sPjA6lS0GlQ
+    embed_url: https://www.youtube-nocookie.com/embed/sPjA6lS0GlQ
     year: 2017
     keynote: false
     minutes: 28
@@ -332,7 +332,7 @@
 - title: Playing with Graphics and Animations in Haskell
   speaker: Manuel Chakravarty
   video_url: https://www.youtube.com/watch?v=9dk7_GDNocQ
-  embed_url: https://www.youtube.com/embed/9dk7_GDNocQ
+  embed_url: https://www.youtube-nocookie.com/embed/9dk7_GDNocQ
   year: 2016
   keynote: true
   minutes: 44
@@ -343,7 +343,7 @@
 - title: Practical Programming in an Exception Free World
   speaker: Sharon Holliday
   video_url: https://www.youtube.com/watch?v=7WTM53u09Pk
-  embed_url: https://www.youtube.com/embed/7WTM53u09Pk
+  embed_url: https://www.youtube-nocookie.com/embed/7WTM53u09Pk
   year: 2016
   keynote: false
   minutes: 25
@@ -355,7 +355,7 @@
 - title: Plasma Progamming Language
   speaker: Paul Bone
   video_url: https://www.youtube.com/watch?v=sIVzfYelaS4
-  embed_url: https://www.youtube.com/embed/sIVzfYelaS4
+  embed_url: https://www.youtube-nocookie.com/embed/sIVzfYelaS4
   year: 2016
   keynote: false
   minutes: 30
@@ -366,7 +366,7 @@
 - title: Datomic in Production
   speaker: Alistair Roche
   video_url: https://www.youtube.com/watch?v=0rmR80neExo
-  embed_url: https://www.youtube.com/embed/0rmR80neExo
+  embed_url: https://www.youtube-nocookie.com/embed/0rmR80neExo
   year: 2016
   keynote: false
   minutes: 27
@@ -378,7 +378,7 @@
 - title: Using Cloud-Haskell to Build a Continuous Integration Platform
   speaker: Finlay Thompson
   video_url: https://www.youtube.com/watch?v=xbK1ZWwI13M
-  embed_url: https://www.youtube.com/embed/xbK1ZWwI13M
+  embed_url: https://www.youtube-nocookie.com/embed/xbK1ZWwI13M
   year: 2016
   keynote: false
   minutes: 26
@@ -389,7 +389,7 @@
 - title: Equational Reasoning and Intended Semantics in Functional Programming
   speaker: Lee Naish
   video_url: https://www.youtube.com/watch?v=9wod5vSanrA
-  embed_url: https://www.youtube.com/embed/9wod5vSanrA
+  embed_url: https://www.youtube-nocookie.com/embed/9wod5vSanrA
   year: 2016
   keynote: false
   minutes: 29
@@ -399,7 +399,7 @@
 - title: Getting Work Done With the Eff Monad in Scala
   speaker: Ben Hutchison
   video_url: https://www.youtube.com/watch?v=LhGq4HlozV4
-  embed_url: https://www.youtube.com/embed/LhGq4HlozV4
+  embed_url: https://www.youtube-nocookie.com/embed/LhGq4HlozV4
   year: 2016
   keynote: false
   minutes: 25
@@ -411,7 +411,7 @@
 - title: The Extended Functor Family
   speaker: George Wilson
   video_url: https://www.youtube.com/watch?v=JZPXzJ5tp9w
-  embed_url: https://www.youtube.com/embed/JZPXzJ5tp9w
+  embed_url: https://www.youtube-nocookie.com/embed/JZPXzJ5tp9w
   year: 2016
   keynote: false
   minutes: 22
@@ -422,7 +422,7 @@
 - title: Types All The Way Down
   speaker: Kris Jenkins
   video_url: https://www.youtube.com/watch?v=sh4H8yzXnvw
-  embed_url: https://www.youtube.com/embed/sh4H8yzXnvw
+  embed_url: https://www.youtube-nocookie.com/embed/sh4H8yzXnvw
   year: 2016
   keynote: false
   minutes: 21
@@ -434,7 +434,7 @@
 - title: Productionisation of Functional Optics
   speaker: Brian McKenna
   video_url: https://www.youtube.com/watch?v=H01dw-BMmlE
-  embed_url: https://www.youtube.com/embed/H01dw-BMmlE
+  embed_url: https://www.youtube-nocookie.com/embed/H01dw-BMmlE
   year: 2016
   keynote: false
   minutes: 23
@@ -444,7 +444,7 @@
 - title: The Joy of Refactoring with Strong, Static Types
   speaker: Sean Seefried
   video_url: https://www.youtube.com/watch?v=_K6UAq4hjAs
-  embed_url: https://www.youtube.com/embed/_K6UAq4hjAs
+  embed_url: https://www.youtube-nocookie.com/embed/_K6UAq4hjAs
   year: 2016
   keynote: false
   minutes: 22
@@ -455,7 +455,7 @@
 - title: Functional Eyes
   speaker: Magdalena Cassel & Aaron Edwards
   video_url: https://www.youtube.com/watch?v=xOFp-iezM_0
-  embed_url: https://www.youtube.com/embed/xOFp-iezM_0
+  embed_url: https://www.youtube-nocookie.com/embed/xOFp-iezM_0
   year: 2016
   keynote: false
   minutes: 24
