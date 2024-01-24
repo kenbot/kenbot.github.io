@@ -339,3 +339,125 @@
   tags:
   - haskell
   - graphics
+
+- title: Practical Programming in an Exception Free World
+  speaker: Sharon Holliday
+  video_url: https://www.youtube.com/watch?v=7WTM53u09Pk
+  embed_url: https://www.youtube.com/embed/7WTM53u09Pk
+  year: 2016
+  keynote: false
+  minutes: 25
+  tags:
+  - scala
+  - exceptions
+  - introductory
+
+- title: Plasma Progamming Language
+  speaker: Paul Bone
+  video_url: https://www.youtube.com/watch?v=sIVzfYelaS4
+  embed_url: https://www.youtube.com/embed/sIVzfYelaS4
+  year: 2016
+  keynote: false
+  minutes: 30
+  tags:  
+  - language_design
+  - plasma
+
+- title: Datomic in Production
+  speaker: Alistair Roche
+  video_url: https://www.youtube.com/watch?v=0rmR80neExo
+  embed_url: https://www.youtube.com/embed/0rmR80neExo
+  year: 2016
+  keynote: false
+  minutes: 27
+  tags:
+  - datomic
+  - clojure
+  - war_story
+
+- title: Using Cloud-Haskell to Build a Continuous Integration Platform
+  speaker: Finlay Thompson
+  video_url: https://www.youtube.com/watch?v=xbK1ZWwI13M
+  embed_url: https://www.youtube.com/embed/xbK1ZWwI13M
+  year: 2016
+  keynote: false
+  minutes: 26
+  tags:  
+  - haskell
+  - ci
+
+- title: Equational Reasoning and Intended Semantics in Functional Programming
+  speaker: Lee Naish
+  video_url: https://www.youtube.com/watch?v=9wod5vSanrA
+  embed_url: https://www.youtube.com/embed/9wod5vSanrA
+  year: 2016
+  keynote: false
+  minutes: 29
+  tags:  
+  - equational_reasoning
+
+- title: Getting Work Done With the Eff Monad in Scala
+  speaker: Ben Hutchison
+  video_url: https://www.youtube.com/watch?v=LhGq4HlozV4
+  embed_url: https://www.youtube.com/embed/LhGq4HlozV4
+  year: 2016
+  keynote: false
+  minutes: 25
+  tags:
+  - scala
+  - effects
+  - monads
+
+- title: The Extended Functor Family
+  speaker: George Wilson
+  video_url: https://www.youtube.com/watch?v=JZPXzJ5tp9w
+  embed_url: https://www.youtube.com/embed/JZPXzJ5tp9w
+  year: 2016
+  keynote: false
+  minutes: 22
+  tags:  
+  - functor
+  - category_theory
+
+- title: Types All The Way Down
+  speaker: Kris Jenkins
+  video_url: https://www.youtube.com/watch?v=sh4H8yzXnvw
+  embed_url: https://www.youtube.com/embed/sh4H8yzXnvw
+  year: 2016
+  keynote: false
+  minutes: 21
+  tags:  
+  - webdev
+  - types
+  - elm
+
+- title: Productionisation of Functional Optics
+  speaker: Brian McKenna
+  video_url: https://www.youtube.com/watch?v=H01dw-BMmlE
+  embed_url: https://www.youtube.com/embed/H01dw-BMmlE
+  year: 2016
+  keynote: false
+  minutes: 23
+  tags:  
+  - optics
+
+- title: The Joy of Refactoring with Strong, Static Types
+  speaker: Sean Seefried
+  video_url: https://www.youtube.com/watch?v=_K6UAq4hjAs
+  embed_url: https://www.youtube.com/embed/_K6UAq4hjAs
+  year: 2016
+  keynote: false
+  minutes: 22
+  tags:  
+  - types
+  - refactoring
+
+- title: Functional Eyes
+  speaker: Magdalena Cassel & Aaron Edwards
+  video_url: https://www.youtube.com/watch?v=xOFp-iezM_0
+  embed_url: https://www.youtube.com/embed/xOFp-iezM_0
+  year: 2016
+  keynote: false
+  minutes: 24
+  tags:  
+  - functional_principles

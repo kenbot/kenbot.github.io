@@ -1,8 +1,30 @@
 <h1 class="post-title">C◦mp◦se :: Melbourne</h1>
 <div class="submenu">
-  <a class="page-link" href="/compose">About</a> <nbsp/>
-  <a class="page-link" href="/compose/2016.html">2016</a><nbsp/>
-  <a class="page-link" href="/compose/2017.html">2017</a><nbsp/>
-  <a class="page-link" href="/compose/2018.html">2018</a><nbsp/>
-  <a class="page-link" href="/compose/2019.html">2019</a>
+
+  {% if page.title == "Compose" %} 
+  <a class="page-link selected" href="/compose">About</a><nbsp/>
+  {% else %}
+    <a class="page-link" href="/compose">About</a><nbsp/>
+  {% endif %}
+
+  {% if page.title contains "2016" %} 
+    <a class="page-link selected" href="/compose/2016.html">2016</a><nbsp/>
+  {% else %}
+    <a class="page-link" href="/compose/2016.html">2016</a><nbsp/>
+  {% endif %}
+  {% if page.title contains "2017" %} 
+    <a class="page-link selected" href="/compose/2017.html">2017</a><nbsp/>
+  {% else %}
+    <a class="page-link" href="/compose/2017.html">2017</a><nbsp/>
+  {% endif %}
+  {% if page.title contains "2018" %} 
+    <a class="page-link selected" href="/compose/2018.html">2018</a><nbsp/>
+  {% else %}
+    <a class="page-link" href="/compose/2018.html">2018</a><nbsp/>
+  {% endif %}
+  {% if page.title contains "2019" %} 
+    <a class="page-link selected" href="/compose/2019.html">2019</a><nbsp/>
+  {% else %}
+    <a class="page-link" href="/compose/2019.html">2019</a><nbsp/>
+  {% endif %}
 </div>

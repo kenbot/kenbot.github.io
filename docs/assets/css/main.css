@@ -166,14 +166,14 @@ h2.post-title {
 }
 
 .submenu a.page-link:hover {
-  background-color: #5982c7;
-  color: white;
+  background-color: #aec7f3;
 
 }
 
 .submenu a.page-link.selected {
-  background-color: white;
-  color: hsl(217, 50%, 44%);
+  background-color: #5982c7;
+  color: white;
+
 }
 
 div.filler {

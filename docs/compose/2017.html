@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Compose 2018
-permalink: /compose/2018
+title: Compose 2017
+permalink: /compose/2017
 parent: compose.html
 ---
 <html>
@@ -11,7 +11,7 @@ parent: compose.html
   </head>
   <body>
     {% include compose-header.html %}
-    {% assign talks = site.data.composeTalks | where: "year", 2018 %}
+    {% assign talks = site.data.composeTalks | where: "year", 2017 %}
     <div class="filler"> </div>
     {% for t in talks %}
       {% include compose-talk-summary.html talk=t %}
