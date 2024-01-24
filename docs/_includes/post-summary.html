@@ -19,6 +19,9 @@
   {% if p.opening %}
   <div class="opening"> 
     {{ p.opening }}...
+    {% if p.thread-length %}
+      <span class="thread-length"> (1/{{p.thread-length}}) </span>
+    {% endif %}
   </div>
   {% endif %}
   {% if p.embed %}
@@ -26,7 +29,4 @@
     {{ p.embed }}
   </div>
   {% endif %}
-</div>
-<div class="filler">
-
 </div>

@@ -17,16 +17,18 @@ layout: default
   {%- endif -%}
 
   <h2 class="post-title">Featured</h2>
-  <ul class="post-list">
-    {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true %}
-    {%- for feature in featured -%}
+  {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true | reverse %}
+  {% if featured.size > 0 %}
+    {% assign index = site.time | date: "%d" | modulo: featured.size %}
+    <ul class="post-list">
+      {%- assign feature = featured[index] -%}
       {% if feature.video_url %}
         {% include talk-summary.html talk=feature%}
       {% else %}
         {% include post-summary.html post=feature%}
       {% endif %}
-    {%- endfor -%}
-  </ul>
+    </ul>
+  {% endif%}
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   

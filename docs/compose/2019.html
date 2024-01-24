@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Compose 2019
 permalink: /compose/2019
 parent: compose.html
@@ -10,8 +10,9 @@ parent: compose.html
     <title>{{ page.title }}</title>
   </head>
   <body>
-    
+    {% include compose-header.html %}
     {% assign talks = site.data.composeTalks | where: "year", 2019 %}
+    <div class="filler"> </div>
     {% for t in talks %}
       {% include compose-talk-summary.html talk=t %}
     {% endfor %}
