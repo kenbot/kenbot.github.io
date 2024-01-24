@@ -194,6 +194,141 @@
   - music
   - alda
 
+- title: Sound Synthesis in the Computational Crucible
+  speaker: Andrew Sorensen
+  video_url: https://www.youtube.com/watch?v=Mlbe7d90DoI
+  embed_url: https://www.youtube.com/embed/Mlbe7d90DoI
+  year: 2017
+  keynote: true
+  minutes: 44
+  tags:
+  - sound_synthesis
+  - extempore
+
+- title: Your First Haskell App
+  speaker: Andrew McCluskey
+  video_url: https://www.youtube.com/watch?v=lUibiSzIgG4
+  embed_url: https://www.youtube.com/embed/lUibiSzIgG4
+  year: 2017
+  keynote: false
+  minutes: 27
+  tags:
+  - haskell
+  - introductory
+
+- title: From Javascript to Purescript
+  speaker: Rahul Trikha 
+  video_url: https://www.youtube.com/watch?v=MBj2q9O3b-8
+  embed_url: https://www.youtube.com/embed/MBj2q9O3b-8
+  year: 2017
+  keynote: false
+  minutes: 30
+  tags:
+  - purescript
+  - introductory
+
+- title: "React: JS vs Clojurescript"
+  speaker: Pei Shi Yong
+  video_url: https://www.youtube.com/watch?v=7Kl63sCXdRQ
+  embed_url: https://www.youtube.com/embed/7Kl63sCXdRQ
+  year: 2017
+  keynote: false
+  minutes: 27
+  tags:
+  - clojurescript
+  - language_adoption
+  - war_story
+
+- title: "Type Class: The Ultimate Ad Hoc"
+  speaker: George Wilson
+  video_url: https://www.youtube.com/watch?v=2EdQFCP5mZ8
+  embed_url: https://www.youtube.com/embed/2EdQFCP5mZ8
+  year: 2017
+  keynote: false
+  minutes: 31
+  tags:
+  - typeclasses
+
+- title: A Haskell EDSL for Bioinformatics Pipelines
+  speaker: Justin Bedő
+  video_url: https://www.youtube.com/watch?v=lu90p7EWXJE
+  embed_url: https://www.youtube.com/embed/lu90p7EWXJE
+  year: 2017
+  keynote: false
+  minutes: 29
+  tags:
+  - haskell
+  - bioinformatics
+
+- title: FP in Aviation
+  speaker: Tony Morris
+  video_url: https://www.youtube.com/watch?v=ZOII5dbduKU
+  embed_url: https://www.youtube.com/embed/ZOII5dbduKU
+  year: 2017
+  keynote: false
+  minutes: 31
+  tags:
+  - haskell
+  - aviation
+
+- title: Re-ops, a Functional Live Infrastructure as Code
+  speaker: Ronen Narkis
+  video_url: https://www.youtube.com/watch?v=iopuirQuK-s
+  embed_url: https://www.youtube.com/embed/iopuirQuK-s
+  year: 2017
+  keynote: false
+  minutes: 28
+  tags:
+  - clojure
+  - live_coding
+  - devops
+
+- title: The Why and How of ReasonML
+  speaker: Keira Hodgkison
+  video_url: https://www.youtube.com/watch?v=j5mlMUzpE5g
+  embed_url: https://www.youtube.com/embed/j5mlMUzpE5g
+  year: 2017
+  keynote: false
+  minutes: 27
+  tags:
+  - reasonml
+  - react
+
+- title: Reactive Streams for REA Feeders
+  speaker: Luke Stephenson
+  video_url: https://www.youtube.com/watch?v=mOanvXdMRQY
+  embed_url: https://www.youtube.com/embed/mOanvXdMRQY
+  year: 2017
+  keynote: false
+  minutes: 25
+  tags:
+  - scala
+  - reactive
+  - monix
+
+- title: Domain-Specific Type Error Diagnosis in GHC
+  speaker: Jurriaan Hage
+  video_url: https://www.youtube.com/watch?v=GbCfmnTmQDc
+  embed_url: https://www.youtube.com/embed/GbCfmnTmQDc
+  year: 2017
+  keynote: false
+  minutes: 29
+  tags:
+  - haskell
+  - compiler
+
+  - title: Grenade - Dependently Typed Neural Networks in Haskell
+    speaker: Huw Campbell
+    video_url: https://www.youtube.com/watch?v=sPjA6lS0GlQ
+    embed_url: https://www.youtube.com/embed/sPjA6lS0GlQ
+    year: 2017
+    keynote: false
+    minutes: 28
+    tags:
+    - haskell
+    - neural_networks
+    - dependent_types
+
 - title: Playing with Graphics and Animations in Haskell
   speaker: Manuel Chakravarty
   video_url: https://www.youtube.com/watch?v=9dk7_GDNocQ
