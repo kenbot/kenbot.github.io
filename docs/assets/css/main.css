@@ -179,3 +179,7 @@ h2.post-title {
 div.filler {
   height: 30px;
 }
+
+div.featured {
+  display: none;
+}

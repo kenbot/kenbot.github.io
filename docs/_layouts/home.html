@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+<script>
+  window.onload = function () {
+    var featuredDivs = document.querySelectorAll(".featured");
+    const randomDiv = featuredDivs[Math.floor(Math.random() * featuredDivs.length)];
+    randomDiv.style.display = "block";
+  }
+</script>
+
 <div class="home">
   {{ content }}
 
@@ -17,17 +26,20 @@ layout: default
   {%- endif -%}
 
   <h2 class="post-title">Featured</h2>
-  {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true | reverse %}
+  
+  {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true %}
   {% if featured.size > 0 %}
     {% assign index = site.time | date: "%d" | modulo: featured.size %}
-    <ul class="post-list">
-      {%- assign feature = featured[index] -%}
-      {% if feature.video_url %}
-        {% include talk-summary.html talk=feature%}
-      {% else %}
-        {% include post-summary.html post=feature%}
-      {% endif %}
-    </ul>
+
+    {%- for feature in featured -%}
+      <div class="featured">
+        {% if feature.video_url %}
+          {% include talk-summary.html talk=feature %}
+        {% else %}
+          {% include post-summary.html post=feature %}
+        {% endif %}
+      </div>
+    {% endfor %}
   {% endif%}
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
