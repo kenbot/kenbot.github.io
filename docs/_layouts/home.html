@@ -14,7 +14,8 @@ layout: default
 <div class="home">
   {{ content }}
 
-  {% assign latest_posts = site.posts | slice: 1 %}
+  {% assign latest_posts = site.posts | slice: 0, 1 %}
+
   {%- if latest_posts.size > 0 -%}
     <h2 class="post-title">Latest</h2>
     <ul class="post-list">
@@ -29,16 +30,13 @@ layout: default
   
   {% assign featured = site.posts | concat: site.data.externalPosts | concat: site.data.talks | concat: site.data.socials | where: "featured", true %}
   {% if featured.size > 0 %}
-    {% assign index = site.time | date: "%d" | modulo: featured.size %}
 
     {%- for feature in featured -%}
-      <div class="featured">
         {% if feature.video_url %}
           {% include talk-summary.html talk=feature %}
         {% else %}
           {% include post-summary.html post=feature %}
         {% endif %}
-      </div>
     {% endfor %}
   {% endif%}
 

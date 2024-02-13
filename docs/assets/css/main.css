@@ -111,6 +111,7 @@ span.image-crop {
 
 h1.post-title {
   font-size: 2em;
+  padding-top: 5px;
 }
 
 h2.post-title {
@@ -182,4 +183,9 @@ div.filler {
 
 div.featured {
   display: none;
+}
+
+blockquote p {
+  color: #444444;
+  font-style: normal;
 }
