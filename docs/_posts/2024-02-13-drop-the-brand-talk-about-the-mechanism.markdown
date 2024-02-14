@@ -5,13 +5,13 @@ date:   2024-02-13 00:00:00 +1000
 date-string: "2024-02-13"
 categories: posts
 opening: > 
-  Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: stop using the brand name, and instead talk about the actual things you want to do and how they achieve your needs. 
+  Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: ditch the brand names, and talk about how things work instead. 
 tags: 
 - sociotechnical
 - influence
 ---
 
-Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: stop using the brand name, and instead talk about the actual things you want to do and how they achieve your needs. 
+Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: ditch the brand names, and talk about how things work instead. 
 
 ### The trouble with brand names
 Every popular methodology needs a name, or it would be impossible to talk about, or build a following. You can name OO, Agile, DDD, TDD, FP, DevOps or a hundred other popular ideas, which for most developers will instantly summon a bundle of concepts, impressions, and experiences. Much of this context will be relatively consistent, enabling even strangers to have productive, informed conversations. Great!
