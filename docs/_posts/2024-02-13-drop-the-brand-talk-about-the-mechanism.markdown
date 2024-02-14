@@ -14,11 +14,11 @@ tags:
 Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: ditch the brand names, and talk about how things work instead. 
 
 ### The trouble with brand names
-Every popular methodology needs a name, or it would be impossible to talk about, or build a following. You can name OO, Agile, DDD, TDD, FP, DevOps or a hundred other popular ideas, which for most developers will instantly summon a bundle of concepts, impressions, and experiences. Much of this context will be relatively consistent, enabling even strangers to have productive, informed conversations. Great!
+Every popular methodology needs a name, or it would be impossible to talk about, or build a following. You can name OO, Agile, DDD, TDD, FP, DevOps or a hundred other popular ideas, which for most developers will instantly summon a bundle of concepts, impressions, and experiences. Much of this will be relatively consistent, so even strangers can have productive, informed conversations. Great!
 
 The trouble is, of course, when it isn't. These famous traditions were each founded in a few years or decades by a fairly small group of people, propelled by a solid shared vision. But when your creation escapes into the popular consciousness, it doesn't really belong to you anymore. Successful ideas have a life of their own! 
 
-With hundreds, thousands, millions of adherents and critics, it's impossible to stop the name's meaning-as-used drifting like a flag in the sand. Beginners are drawn to the excitement of a new paradigm, perhaps enticed by a sense of novelty, or a fantasy of release from the friction and ennui of daily work. Weather-worn types might pick out the bits that are supported by their experience. Online types will be attracted by personality, debate and controversy. People with something to sell will find some aspects more marketable than others. At some point, the memetic nuggets jostling under the umbrella become so inconsistent that the risk of deeply unproductive discussion can't be ignored. 
+With hundreds, thousands, millions of adherents and critics, it's impossible to stop the name's meaning drifting, like a flag in sand. Beginners are drawn to the excitement of a new paradigm, perhaps enticed by a sense of novelty, or a fantasy of release from the friction of daily work. Weather-worn types might pick out the bits that are supported by their experience. Online types will be attracted by personality, debate and controversy. People with something to sell will find some aspects more marketable than others. At some point, the memetic nuggets jostling under the umbrella become so inconsistent that the risk of major misunderstandings can't be ignored. 
 
 ### Can't people just use the name for the REAL thing?
 
@@ -77,15 +77,15 @@ On the other hand, if Denis _didn't_ care much about software design - the first
 >
 > __Eric__: I'm so glad we're finally putting people over process!
 
-People that deeply understand and love the methodologies that we use are so valuable in a thousand different ways, but no good deed goes unpunished - there are traps lying in wait just for them.
+People that deeply understand and love the methodologies that we use are so valuable in a thousand different ways, but no good deed goes unpunished - there are traps waiting just for them.
 
-Each methodology can contain hundreds of ideas and practices, each thematically related but with distinct benefits, costs and tradeoffs. These ideas are often layered, incrementally built on each other in generations of practice and published writing, based on differing individual experiences, studies and ambient external pressures. Each one has been useful to someone at some point, but not necessarily at the same time and not necessarily to you. 
+Each methodology can contain hundreds of ideas and practices, each thematically related but with distinct benefits, costs and tradeoffs. They are often layered, incrementally built on each other in generations of practice and published writing, based on differing individual experiences, studies and external pressures. Each one has been useful to someone at some point, but not necessarily at the same time and not necessarily to you. 
 
 The enthusiast's trap then is a kind of logical fallacy; We need to achieve A; methodology B can help us achieve A; C is an idea associated with B, therefore we should do C. An enthusiast's blind spots are not born of ignorance, but of an overeagerness to adopt ideas they like without the sceptical rigour they would sensibly apply to others. 
 
 Overly dwelling on the brand name here primes the trap; it emphasises the big bucket of ideas rather than the objective, and fosters groupthink between likeminded people. 
 
-Eric and Fatima are likeminded people! But they were supposed to figure out "How can an Agile approach help customers with their invoices?" and they never got past "How can we Agile?". Focusing more on what these practices are supposed to do might have led to a slimmer approach focused on customer outcomes.
+Eric and Fatima were supposed to figure out "How can an Agile approach help customers with their invoices?" and they never got past "How can we Agile?". Focusing more on what these practices are supposed to do might have led to a slimmer approach focused on customer outcomes.
 
 
 ### Sell the cure, don't sell the medicine
@@ -116,7 +116,7 @@ Speaking in the language of things people actually want is not "dumbing down" an
 >
 > __Gemma__: Sure, good idea. Now on to the next thing...
 
-Harald is doing two new things here: he's respecting that Gemma is trying to solve a particular problem, and he's talking about a select minimum of functional programming mechanisms in a way that directly connects them to the solution. Gemma might ask more questions later and be willing to go deeper -- or not -- but for the time being she has a direct line of sight to the problem, and a solution that has been improved in particular ways.
+Harald is doing two new things here: he's respecting that Gemma is trying to solve a particular problem, and he's talking about a select minimum of FP mechanisms in a way that directly connects them to the solution. Gemma might ask more questions later and be willing to go deeper -- or not -- but for the time being she has a direct line of sight to the problem, and a solution that has been improved in particular ways.
 
 By focusing on the cure instead of the medicine -- mechanism instead of brand -- opinions could be swayed and progress made, without waste and confusion.
 
