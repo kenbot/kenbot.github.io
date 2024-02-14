@@ -5,16 +5,16 @@ date:   2024-02-13 00:00:00 +1000
 date-string: "2024-02-13"
 categories: posts
 opening: > 
-  How often have you been stuck in a furious discussion about a technical methodology, but you talk past each other, leaving mutually frustrated and unmoved? So often, the resolution is surprisingly simple: stop using the brand name, and talk about the actual things you want to do and how they achieve your needs instead.
+  Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: stop using the brand name, and instead talk about the actual things you want to do and how they achieve your needs. 
 tags: 
 - sociotechnical
 - influence
 ---
 
-How often have you been stuck in a furious discussion about a technical methodology, but you talk past each other, leaving mutually frustrated and unmoved? So often, the resolution is surprisingly simple: stop using the brand name, and talk about the actual things you want to do and how they achieve your needs instead. Drop the brand; talk about the mechanism.
+Have you ever been stuck furiously debating a technical methodology, but you talk past each other, frustrated and unmoved? The solution is often surprisingly simple: stop using the brand name, and instead talk about the actual things you want to do and how they achieve your needs. 
 
 ### The trouble with brand names
-Every popular methodology needs a name, or it would be impossible to talk about it or build a following. You can talk about OO, Agile, DDD, TDD, FP, DevOps or a hundred other popular ideas, which for most developers will instantly summon a collection of concepts, impressions, and experiences. Much of this context will be relatively consistent, enabling even strangers to have productive, informed conversations. Great!
+Every popular methodology needs a name, or it would be impossible to talk about, or build a following. You can name OO, Agile, DDD, TDD, FP, DevOps or a hundred other popular ideas, which for most developers will instantly summon a bundle of concepts, impressions, and experiences. Much of this context will be relatively consistent, enabling even strangers to have productive, informed conversations. Great!
 
 The trouble is, of course, when it isn't. These famous traditions were each founded in a few years or decades by a fairly small group of people, propelled by a solid shared vision. But when your creation escapes into the popular consciousness, it doesn't really belong to you anymore. Successful ideas have a life of their own! 
 
