@@ -81,9 +81,9 @@ People that deeply understand and love the methodologies that we use are so valu
 
 Each methodology can contain hundreds of ideas and practices, each thematically related but with distinct benefits, costs and tradeoffs. These ideas are often layered, incrementally built on each other in generations of practice and published writing, based on differing individual experiences, studies and ambient external pressures. Each one has been useful to someone at some point, but not necessarily at the same time and not necessarily to you. 
 
-The enthusiast's trap then is a kind of logical fallacy; We need to achieve A; methodology B can help us achieve A; C is an idea associated with B, therefore we should do C. An enthusiast's blind spots are not born of ignorance, but of an overeagerness to adopt ideas they like without the sceptical rigour they would sensibly apply to others.
+The enthusiast's trap then is a kind of logical fallacy; We need to achieve A; methodology B can help us achieve A; C is an idea associated with B, therefore we should do C. An enthusiast's blind spots are not born of ignorance, but of an overeagerness to adopt ideas they like without the sceptical rigour they would sensibly apply to others. 
 
-Overly dwelling on the brand name here primes the trap; it emphasises the big bucket of ideas rather than the objective, and fosters groupthink between likeminded people. On the other hand, focusing on how each idea helps the objective and what it costs will lead to the right conversations.
+Overly dwelling on the brand name here primes the trap; it emphasises the big bucket of ideas rather than the objective, and fosters groupthink between likeminded people. 
 
 Eric and Fatima are likeminded people! But they were supposed to figure out "How can an Agile approach help customers with their invoices?" and they never got past "How can we Agile?". Focusing more on what these practices are supposed to do might have led to a slimmer approach focused on customer outcomes.
 
