@@ -30,7 +30,7 @@ With hundreds, thousands, millions of adherents and critics, it's impossible to 
 >
 >__Abigail__: Since when? There's a constructor, private fields, an interface, methods.... that's classic OO!
 
-One of most futile ways to burn your time is to pine for the days when everyone used the words in the same way; fighting battle after battle to defend the boundaries of the _real_ meaning of the name. No-one has ever won one of these battles. They are uniformly draining and unproductive to wade in to, as they are boring to witness. 
+One of the most futile ways to burn your time is to pine for the days when everyone used the words in the same way; fighting battle after battle to defend the boundaries of the _real_ meaning of the name. No-one has ever won one of these battles. They are uniformly draining and unproductive to wade in to, as they are boring to witness. 
 
 Sometimes this process of change is better viewed as natural evolution, rather than the erosion of virtue into vice. Alan Kay, the titan who introduced "object oriented" to our vocabulary in the 1970s [famously said](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en): 
 
