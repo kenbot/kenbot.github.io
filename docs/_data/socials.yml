@@ -74,3 +74,16 @@
   tags: 
   - monads
   - category_theory
+
+- title: Software architecture hot tips
+  opening: > 
+    Good things are better than bad things, except when they're not
+  url: https://hachyderm.io/@kenbot/112513128549792563
+  thread-length: 1
+  site: Mastodon
+  date: 2024-05-07 00:00:00 +1000 
+  date-string: "2024-05-07"
+  featured: false
+  tags: 
+  - software_architecture
+  - joke
