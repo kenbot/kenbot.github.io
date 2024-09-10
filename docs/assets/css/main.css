@@ -189,3 +189,7 @@ blockquote p {
   color: #444444;
   font-style: normal;
 }
+
+a[rel="me"] {
+  display: none;
+}
